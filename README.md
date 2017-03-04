@@ -1,3 +1,31 @@
+# Lab 5 - GitHub Repo Finder
+
+Repo Finder is a GitHub Repo search app using the [GitHub API](https://developer.github.com/v3/search/#search-repositories).
+
+Time spent: 1.5 hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [x]Table rows for search results should be dynamic height according to the content height.
+- [x]Custom cells should have the proper Auto Layout constraints.
+- [x]Filter repos based on number of stars
+
+Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
+
+1.
+2.
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='Github.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+
 # Lab 3 - GitHub Repo Finder
 
 Repo Finder is a GitHub Repo search app using the [GitHub API](https://developer.github.com/v3/search/#search-repositories).
